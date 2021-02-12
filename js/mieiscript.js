@@ -27,7 +27,11 @@ jQuery("#miobottone").on("click",function()
                 f=1;
                 testo=("Hai inserito un altro "+ CognomeNomeVerifica[i]);
                 flag=1;
+<<<<<<< HEAD
 
+=======
+                    
+>>>>>>> 6702bcb2d10cd70070a91895d42427260af84354
                 $('#messaggino').click();         
                 jQuery('#bottoneprimario').prop("hidden", true);
                 jQuery("#staticBackdropLabel").html("Attenzione!");
