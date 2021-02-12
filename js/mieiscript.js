@@ -27,9 +27,7 @@ jQuery("#miobottone").on("click",function()
                 f=1;
                 testo=("Hai inserito un altro "+ CognomeNomeVerifica[i]);
                 flag=1;
-                    
-                //il modal funziona ma scompare subito
-                    
+
                 $('#messaggino').click();         
                 jQuery('#bottoneprimario').prop("hidden", true);
                 jQuery("#staticBackdropLabel").html("Attenzione!");

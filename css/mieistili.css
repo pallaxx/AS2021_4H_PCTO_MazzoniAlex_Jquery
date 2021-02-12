@@ -1,11 +1,15 @@
 body{
     padding: 100px;
 }
-
+ul
+{
+    justify-content: center;
+    list-style: none;
+}
 #container1
 {
     border: 1px solid black;
-    margin: 15px;
+    /* margin: 15px; */
 }
 
 #row1
@@ -48,9 +52,9 @@ body{
 #riga1_colonna2
 {
     border: 1px solid black;
-    margin-left: 70px;
+    /* margin-left: 70px;
     margin-right: 115px;
-    margin-bottom: 30px;
+    margin-bottom: 30px; */
 }
 #nominativi
 {
